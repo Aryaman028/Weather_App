@@ -35,12 +35,12 @@ const App = () => {
     setLoading(false);
     setError(''); // Clear error on successful fetch
   };
-
+  const api_key = process.env.REACT_APP_API_KEY;
   const makeApiCall = async (cityName) => {
     setLoading(true);
     try {
       const response = await fetch(
-        `https://api.openweathermap.org/data/2.5/forecast?q=${cityName}&units=metric&APPID=${process.env.REACT_APP_API_KEY}`
+        `https://api.openweathermap.org/data/2.5/forecast?q=${cityName}&units=metric&APPID=${api_key}`
       );
       const data = await response.json();
 
