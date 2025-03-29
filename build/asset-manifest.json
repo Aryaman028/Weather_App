@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1dbdd7e.chunk.css",
+    "main.js": "/static/js/main.f4b65be4.chunk.js",
+    "main.js.map": "/static/js/main.f4b65be4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.060fb489.js",
+    "runtime~main.js.map": "/static/js/runtime~main.060fb489.js.map",
+    "static/js/2.9af8c386.chunk.js": "/static/js/2.9af8c386.chunk.js",
+    "static/js/2.9af8c386.chunk.js.map": "/static/js/2.9af8c386.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a15827f35e28c27da59f00038aec762.js": "/precache-manifest.8a15827f35e28c27da59f00038aec762.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c1dbdd7e.chunk.css.map": "/static/css/main.c1dbdd7e.chunk.css.map",
+    "static/media/MainWeatherWindow.css": "/static/media/bg_sun2.58212265.jpg",
+    "static/media/App.css": "/static/media/body_background.bb51f793.jpg"
+  }
+}
