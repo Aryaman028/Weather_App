@@ -1,6 +1,6 @@
 .weather-box {
   background: linear-gradient(145deg, #e0f7fa, #80deea);
-  opacity: 90%;
+  opacity: 0.9;
   padding: 15px;
   margin: 10px;
   border-radius: 15px;

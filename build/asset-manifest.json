@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5a415f8.chunk.css",
+    "main.css": "/static/css/main.013e1081.chunk.css",
     "main.js": "/static/js/main.70f904f1.chunk.js",
     "main.js.map": "/static/js/main.70f904f1.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.4bfaeea3.js",
@@ -8,9 +8,9 @@
     "static/js/2.e1ea7bee.chunk.js": "/static/js/2.e1ea7bee.chunk.js",
     "static/js/2.e1ea7bee.chunk.js.map": "/static/js/2.e1ea7bee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.330bc6c9504ea8343974231a7f4eeff3.js": "/precache-manifest.330bc6c9504ea8343974231a7f4eeff3.js",
+    "precache-manifest.10809eda6cf363d35c0f505f7dd523d8.js": "/precache-manifest.10809eda6cf363d35c0f505f7dd523d8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d5a415f8.chunk.css.map": "/static/css/main.d5a415f8.chunk.css.map",
+    "static/css/main.013e1081.chunk.css.map": "/static/css/main.013e1081.chunk.css.map",
     "static/media/MainWeatherWindow.css": "/static/media/bg_sun2.58212265.jpg",
     "static/media/App.css": "/static/media/body_background.bb51f793.jpg"
   }
