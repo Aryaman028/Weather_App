@@ -23,12 +23,6 @@ This web app allows users to search for weather information by city name. It dis
 
 ![Main UI1](screenshots/4.png)
 
-![Next 4 Forcast](screenshots/1.png)
-
-![Error Msg](screenshots/2.png)
-
-
-
 
 ## Installation
 ```
